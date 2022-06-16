@@ -6,7 +6,6 @@ import Restaurent from './Component/Restaurent';
 import UseReducer from './Component/Hooks/useReducer';
 import Navbar from './Component/Navbar';
 
-// video paused at 2:11:00
 
 function App() {
   return (
